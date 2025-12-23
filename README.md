@@ -1,2 +1,2 @@
 # Expense-Tracker-js
-A professional JavaScript Expense Tracker
+A professional expense tracker. 
